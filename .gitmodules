@@ -1,3 +1,6 @@
 [submodule "SAP-lab-activity-01"]
 	path = SAP-lab-activity-01
 	url = git@github.com:muni106/SAP-lab-activity-01.git
+[submodule "SAP-lab-activity-02"]
+	path = SAP-lab-activity-02
+	url = git@github.com:muni106/SAP-lab-activity-02.git
