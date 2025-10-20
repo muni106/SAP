@@ -4,3 +4,6 @@
 [submodule "SAP-lab-activity-02"]
 	path = SAP-lab-activity-02
 	url = git@github.com:muni106/SAP-lab-activity-02.git
+[submodule "ttt-game-service"]
+	path = ttt-game-service
+	url = git@github.com:muni106/ttt-game-service.git
