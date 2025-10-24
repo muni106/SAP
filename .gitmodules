@@ -7,3 +7,6 @@
 [submodule "ttt-game-service"]
 	path = ttt-game-service
 	url = git@github.com:muni106/ttt-game-service.git
+[submodule "lab-activity-05"]
+	path = lab-activity-05
+	url = git@github.com:muni106/lab-activity-05.git
