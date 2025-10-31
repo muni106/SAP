@@ -10,3 +10,6 @@
 [submodule "lab-activity-05"]
 	path = lab-activity-05
 	url = git@github.com:muni106/lab-activity-05.git
+[submodule "SAP-lab-activity-06"]
+	path = SAP-lab-activity-06
+	url = git@github.com:muni106/SAP-lab-activity-06.git
