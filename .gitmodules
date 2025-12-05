@@ -19,3 +19,6 @@
 [submodule "lab-activity-10"]
 	path = lab-activity-10
 	url = git@github.com:muni106/lab-activity-10.git
+[submodule "lab-activity-11-agents"]
+	path = lab-activity-11-agents
+	url = git@github.com:muni106/lab-activity-11-agents.git
